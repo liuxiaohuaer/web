@@ -1,0 +1,120 @@
+/* CSS Document */
+
+#footer{
+		width:1280pz;
+		height:520px;
+ 		background-color:#69F;
+		font-size:14px;
+		}
+#footer hr{
+	margin-top:30px;
+	}
+.footer_01{width:1280px;
+			height:250px;
+			border:0px solid #00C;
+			
+	      }
+		  
+.wx1{ width:200px;
+       height:250px;
+	   float:left;
+	   margin:15px;
+	   padding:10px;
+	   line-height:25px;}		  
+		  
+.wx2{ width:200px;
+       height:250px;
+	   float:left;
+	   margin:15px;
+	   line-height:25px;
+	    padding:10px;}			  
+		  
+.wx3{ width:200px;
+       height:250px;
+	   float:left;
+	   margin:15px;
+	   line-height:25px;
+	    padding:10px;}			  
+.wx4{ width:200px;
+       height:250px;
+	   float:left;
+	   margin:15px;
+	   line-height:25px;
+	    padding:10px;}	
+
+.wx5{ width:200px;
+       height:250px;
+	   float:left;
+	   margin:15px;
+	   line-height:25px;
+	    padding:10px;}			  		
+
+
+.footer_01 ul{ list-style:none;
+               }
+.footer_01 a{ text-decoration:none;
+             color:#666;}		  
+.footer_01 a:hover{ text-decoration:underline; color:#930;}		  
+		  		
+
+
+
+
+.footer_02{width:1280px;
+			height:200px;
+			border: 0px solid #006;
+			}
+			
+.hp1{ width:200px;
+       height:200px;
+	   float:left;
+	   line-height:25px;
+	   margin:15px;}		
+			
+			
+.hp2{ width:200px;
+       height:200px;
+	   float:left;
+	   line-height:25px;
+	   margin:15px;}		
+			
+.hp3{ width:200px;
+       height:200px;
+	   float:left;
+	   line-height:25px;
+	   margin:15px;}		
+					
+.hp4{ width:200px;
+      height:200px;
+	  float:right;
+	  
+	 }		
+			
+.footer_02 dt { font-size:16px;
+                color:#FFF;
+                }			
+.footer_02 dl a{ color:#FFF;
+                 text-decoration:none;
+				 }			
+.footer_02 a:hover{ text-decoration:underline;}			
+			
+			
+			
+			
+			
+			
+			
+.footer_03{width:100%;
+			line-height:50px;
+			border:1px solid #000;
+			background-color:#CCC;
+			text-align:center;
+			
+			
+			}
+
+.footer_03 a{ text-decoration:none;
+              color:white;
+			  }
+.footer_03 a:hover{ text-decoration:underline;}
+
